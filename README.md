@@ -1,3 +1,3 @@
-# Blog
+## 个人博客
 
-[地址](https://galimu.github.io/blog)
+Powered by [Vuepress](https://vuepress.vuejs.org/)
