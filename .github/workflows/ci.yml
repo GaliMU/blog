@@ -15,4 +15,4 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: master
           FOLDER: build
-          BUILD_SCRIPT: yarn install && yarn build
+          BUILD_SCRIPT: yarn install && yarn run-script build
