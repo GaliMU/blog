@@ -3275,6 +3275,13 @@ getpass@^0.1.1:
   dependencies:
     assert-plus "^1.0.0"
 
+git-cz@^3.3.0:
+  version "3.3.0"
+  resolved "http://npm.mlogcn.com/git-cz/-/git-cz-3.3.0.tgz#34cc39a93eb56ee272470ad569dd45ff3426492f"
+  integrity sha512-wIc93R0B8DIarbkhUMVBO+mezlSZSNj0sF8FBSLaSjS76o/uYPyDKYcAEdmGUkGgBfpI65u647eVTkOvT+cS0Q==
+  dependencies:
+    global "^4.3.2"
+
 github-markdown-css@^3.0.1:
   version "3.0.1"
   resolved "http://npm.mlogcn.com/github-markdown-css/-/github-markdown-css-3.0.1.tgz#d08db1060d2e182025e0d07d547cfe2afed30205"
