@@ -5,7 +5,9 @@ tags:
   - js
   - vue
   - analyzer
+date: 2019-11-14
 title: 在 Vue 项目中添加 webpack-bundle-analyzer
+vssue-title: 在 Vue 项目中添加 webpack-bundle-analyzer
 ---
 
 在开发 web 项目中往往要引入大量的第三方依赖，安装 webpack-bundle-analyzer 可以以可视化图表的方式查看各个依赖所占比例和大小。
