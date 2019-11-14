@@ -13,6 +13,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@releases/v2
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BASE_BRANCH: blog
           BRANCH: master
           FOLDER: build
           BUILD_SCRIPT: yarn install && yarn build
