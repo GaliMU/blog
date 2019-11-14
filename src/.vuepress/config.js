@@ -1,6 +1,6 @@
 module.exports = {
   title: "GaliMu Blog",
-  description: "日常吹水",
+  description: "...",
   locales: {
     "/": {
       lang: "zh-CN"
